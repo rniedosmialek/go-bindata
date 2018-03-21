@@ -1,8 +1,4 @@
-# Warning
-
-**this repository is not maintained. Questions or suggestions can be posted [here](https://github.com/jteeuwen/discussions/issues).**
-
-## bindata
+# bindata
 
 This package converts any file into managable Go source code. Useful for
 embedding binary data into a go program. The file data is optionally gzip
@@ -17,7 +13,7 @@ output being generated.
 
 To install the library and command line program, use the following:
 
-	go get -u github.com/jteeuwen/go-bindata/...
+	go get -u github.com/rniedosmialek/go-bindata/...
 
 
 ### Usage
